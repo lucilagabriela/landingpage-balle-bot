@@ -8,7 +8,7 @@ Tecnologias Utilizadas:
 - Vídeo de referência https://youtu.be/llF6vD-RljE
 - Google fonts https://fonts.google.com/
 
-Meus Aprendizados:
+Aprendizados:
 - reset css
 - início ao estudo de flexbox (display, flex direction, align items, justify content e gap)
 - difereça entre margin e padding
